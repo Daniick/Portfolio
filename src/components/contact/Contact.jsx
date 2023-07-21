@@ -32,7 +32,7 @@ const Contact = () => {
             <MdEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>david.ortega.pajaro1@gmail.com</h5>
-            <a href="mailto:naruto_pajaro@hotmail.com?Subject=Oferta%20Laboral" target='_blank' rel="noopener noreferrer">Send a message</a>
+            <a href="mailto:david.ortega.pajaro1@gmail.com?Subject=Oferta%20Laboral" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
 
           <article className='contact__option'>
